@@ -1,0 +1,2 @@
+# django_local_library
+Djangoで作ったローカル図書館Webアプリケーション
